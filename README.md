@@ -1,5 +1,5 @@
 # fine_tuning_m4t
-Finetuning M4T using expanded fleurs dataset (zh to en version).
+Finetuning [M4T](https://github.com/facebookresearch/seamless_communication) using expanded [fleurs dataset](https://huggingface.co/datasets/google/fleurs) (zh to en version).
 
 Using [customized seamless communication github repo](https://github.com/ivanhe123/seamless_communication/blob/main/src/seamless_communication/datasets/huggingface.py) to generate expanded fleurs data.
 
